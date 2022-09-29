@@ -1,0 +1,15 @@
+
+input[type="submit"],input[type="reset"]  {
+   width: 100px;
+   height:30px;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   border: 1px solid #999;
+   margin-top: 5px;
+}
+
+.error{
+    color:red;
+}
+
