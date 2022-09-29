@@ -10,9 +10,9 @@
 
 ## How to run it?
 
-### 1) Run as -> Maven Build... -> Goals = clean install
-### 2) Maven -> Update Project
-### 3) Run as -> Spring Boot App
+ 1) Run as -> Maven Build... -> Goals = clean install
+ 2) Maven -> Update Project
+ 3) Run as -> Spring Boot App
 
 
 ## Before you can run it: 
